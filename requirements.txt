@@ -1,4 +1,10 @@
-ipykernel
-ipywidgets
-jupyterlab
-notebook
+numpy
+pandas
+scipy
+matplotlib
+mdtraj
+openmm
+localcider
+networkx
+wget
+scikit-learn

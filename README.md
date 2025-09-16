@@ -7,7 +7,7 @@ This repo contains a Jupyter notebook and minimal configuration to launch it on 
 1. Create a new GitHub repo (e.g., `interaction-map-binder`) and push these files.
 2. Click the badge below, or paste your repo URL on [https://mybinder.org](https://mybinder.org).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_GITHUB_USERNAME/interaction-map-binder/HEAD?labpath=Interaction_map_auto_scan_2025.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smallfishabc/Interaction_Map_Notebook/HEAD?labpath=Interaction_map_auto_scan_2025.ipynb)
 
 > Replace `YOUR_GITHUB_USERNAME` with your actual username (or `org` name).
 
